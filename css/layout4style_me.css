@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.mainContainer{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.nav{
+    display: flex;
+    
+    width: 20%;
+    height: 100vh;
+    background-color: blue;
+}
+
+.rest{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    height: 100vh;
+    display: flex;
+}
+
+.header{
+    display: flex;
+    height: 20vh;
+    
+    
+    background-color: brown
+    
+}
+.article{
+    display: flex;
+   
+    height: 60vh;
+    
+    background-color: red;
+}
+
+.footer{
+    display: flex;
+    
+    height: 20vh;
+    
+    background-color: aqua
+}
