@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+.nav{
+    float: left;
+
+    width: 20%;
+    height: 100vh;
+    background-color: black;
+}
+
+
+.header{
+
+    float: left;
+    height: 20vh;
+    width: 80%;
+    
+    background-color: burlywood
+    
+}
+.article{
+    float: left;
+   
+    height: 60vh;
+    width: 80%;
+   
+    
+    background-color: greenyellow;
+}
+
+.footer{
+    float: left;
+    
+    height: 20vh;
+    width: 80%;
+    
+    
+    background-color: aqua
+}
